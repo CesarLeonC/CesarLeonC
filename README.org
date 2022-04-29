@@ -1,4 +1,4 @@
-#+TITLE: Github profile
+#+TITLE: Bienvenido
 #+AUTHOR: Cesar Leon
 #+EMAIL: leoncesaralejandro@gmail.com
 #+DATE: <2022-04-28 jue>
@@ -6,10 +6,14 @@
 #+property: header-args :tangle README.org
 
 
-Bienvenido a mi página de Github, en este sitio estará almacenado contenido adicional a [[Leon Developments](https://www.leondevs.com)]
+Bienvenido a mi página de Github, en este sitio estará almacenado contenido distinto a [[https://www.leondevs.com][Leon Developments]]. El contenido incluye un resumen personal, documentación de proyectos ajenos al sitio, y configuración de toda índole.
+
+Siéntete libre de navegar por los repositorios y visualizar su contenido.
+
+*Nota: En algunos repositorios existe documentación en inglés. No habrá traducciones, ni interpretaciones agendadas más adelante para estos repositorios, así que si necesitas información adicional, visita los enlaces provistos en dichos repositorios.
 
 * Resumen
-** Título
+** Título profesional
 Ingeniero en Negocios Internacionales
 ** Institución
 Escuela Superior Politécnica del Litoral
