@@ -41,20 +41,20 @@
 
 |   Detalle     |   Descripción     |
 |---------------|-------------------|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | Desarrollo de todo tipo de contenido |
-| <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | Desarrollo de aplicaciones interactivas |
-| <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> | Desarrollo Web |
-| <img src=""> | Estilizar lo anterior |
+| <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"> | Desarrollo de todo tipo de contenido |
+| <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript"> | Desarrollo de aplicaciones interactivas |
+| <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5"> | Desarrollo Web |
+| <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6"> | Estilizar lo anterior |
 
 <h4>Herramientas</h4>
 
 |   Detalle     |   Descripción     |
 |---------------|-------------------|
-| <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> | Framework para desarrollo |
-| <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"> | Análisis de clasificación, proyección y aprendizaje automático |
-| <img src="https://img.shields.io/badge/Rest-009688?style=for-the-badge&logo=fastapi&logoColor=white"> | Integración de datos con la web |
-| <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> | Framework de Javascript |
-| <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=#61DAFB"> | Framework de Javascript |
+| <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=092E20"> | Framework para desarrollo |
+| <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow"> | Análisis de clasificación, proyección y aprendizaje automático |
+| <img src="https://img.shields.io/badge/Rest-000000?style=for-the-badge&logo=fastapi"> | Integración de datos con la web |
+| <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs"> | Framework de Javascript |
+| <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react"> | Framework de Javascript |
 
 <h2>Repositorios</h2>
 <ul>
