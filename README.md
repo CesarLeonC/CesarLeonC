@@ -10,6 +10,19 @@
     proyectos ajenos al sitio, y configuración de toda índole.
 </p>
 
+<p>
+    Siéntete libre de navegar por los 
+    repositorios y visualizar su contenido.
+</p>
+
+<p>
+    *Nota: En algunos repositorios existe documentación 
+    en inglés. No habrá traducciones, ni interpretaciones 
+    agendadas más adelante para estos repositorios, así 
+    que si necesitas información adicional, visita los 
+    enlaces provistos en dichos repositorios
+</p>
+
 <h2>Repositorios</h2>
 <ul>
     <li>
@@ -55,16 +68,3 @@
         </p>
     </li>
 </ul>
-
-<p>
-    Siéntete libre de navegar por los 
-    repositorios y visualizar su contenido.
-</p>
-
-<p>
-    *Nota: En algunos repositorios existe documentación 
-    en inglés. No habrá traducciones, ni interpretaciones 
-    agendadas más adelante para estos repositorios, así 
-    que si necesitas información adicional, visita los 
-    enlaces provistos en dichos repositorios
-</p>
