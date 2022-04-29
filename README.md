@@ -1,7 +1,10 @@
 <h1>Bienvenido</h1>
 <p>
     Bienvenido a mi sitio en Github, en este sitio estará 
-    almacenado contenido distinto a <a href="https://www.leondevs.com">Leon Developments</a>. 
+    almacenado contenido distinto a 
+    <a rel="noopener noreferrer" target="_blank" href="https://www.leondevs.com">
+        Leon developments
+    </a>.
     El contenido incluye un resumen personal, documentación de 
     proyectos ajenos al sitio, y configuración de toda índole.
 </p>
