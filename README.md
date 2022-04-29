@@ -41,20 +41,20 @@
 
 |   Detalle     |   Descripción     |
 |---------------|-------------------|
-| Python | Desarrollo de todo tipo de contenido |
-| Javascript | Desarrollo de aplicaciones interactivas |
-| HTML | Desarrollo Web |
-| CSS | Estilizar lo anterior |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | Desarrollo de todo tipo de contenido |
+| <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | Desarrollo de aplicaciones interactivas |
+| <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> | Desarrollo Web |
+| <img src=""> | Estilizar lo anterior |
 
 <h4>Herramientas</h4>
 
 |   Detalle     |   Descripción     |
 |---------------|-------------------|
-| Django | Framework para desarrollo |
-| https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange | Análisis de clasificación, proyección y aprendizaje automático |
-| REST | Integración de datos con la web |
-| Vue.js | Framework de Javascript |
-| React.js | Framework de Javascript |
+| <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> | Framework para desarrollo |
+| <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"> | Análisis de clasificación, proyección y aprendizaje automático |
+| <img src="https://img.shields.io/badge/Rest-009688?style=for-the-badge&logo=fastapi&logoColor=white"> | Integración de datos con la web |
+| <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> | Framework de Javascript |
+| <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=#61DAFB"> | Framework de Javascript |
 
 <h2>Repositorios</h2>
 <ul>
