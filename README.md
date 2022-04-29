@@ -2,8 +2,6 @@
     Bienvenido
 </h1>
 
-<img src="/images/bienvenido.png">
-
 <p align="justify">
     Bienvenido a mi sitio en Github, en este sitio estará 
     almacenado contenido distinto a 
