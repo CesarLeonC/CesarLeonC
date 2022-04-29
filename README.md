@@ -23,6 +23,39 @@
     enlaces provistos en dichos repositorios
 </p>
 
+<h2>Conocimientos</h2>
+<h3>
+    Economía y Finanzas
+</h3>
+
+|   Detalle     |   Descripción     |
+|---------------|-------------------|
+| Elaboración de Estados Financieros | A partir de datos iniciales, obtención de punto de equilibrio, y en adelnate |
+
+
+<h3>
+    Programación
+</h3>
+
+<h4>Lenguajes</h4>
+
+|   Detalle     |   Descripción     |
+|---------------|-------------------|
+| Python | Desarrollo de todo tipo de contenido |
+| Javascript | Desarrollo de aplicaciones interactivas |
+| HTML | Desarrollo Web |
+| CSS | Estilizar lo anterior |
+
+<h4>Herramientas</h4>
+
+|   Detalle     |   Descripción     |
+|---------------|-------------------|
+| Django | Framework para desarrollo |
+| https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=orange | Análisis de clasificación, proyección y aprendizaje automático |
+| REST | Integración de datos con la web |
+| Vue.js | Framework de Javascript |
+| React.js | Framework de Javascript |
+
 <h2>Repositorios</h2>
 <ul>
     <li>
