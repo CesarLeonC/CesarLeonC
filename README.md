@@ -1,8 +1,10 @@
-<h1>Bienvenido</h1>
+<h1 align="center">
+    Bienvenido
+</h1>
 
 <img src="/images/bienvenido.png">
 
-<p>
+<p align="justify">
     Bienvenido a mi sitio en Github, en este sitio estará 
     almacenado contenido distinto a 
     <a href="https://www.leondevs.com" rel="noopener noreferrer" target="_blank">Leon developments</a>.
@@ -10,12 +12,12 @@
     proyectos ajenos al sitio, y configuración de toda índole.
 </p>
 
-<p>
+<p align="justify">
     Siéntete libre de navegar por los 
     repositorios y visualizar su contenido.
 </p>
 
-<p>
+<p align="justify">
     *Nota: En algunos repositorios existe documentación 
     en inglés. No habrá traducciones, ni interpretaciones 
     agendadas más adelante para estos repositorios, así 
@@ -57,7 +59,7 @@
 | <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react"> | Framework de Javascript |
 
 <h2>Repositorios</h2>
-<ul>
+<ul align="justify">
     <li>
         <h3>
             <a href="https://github.com/CesarLeonC/archivos">
@@ -99,5 +101,33 @@
             Úsalo con precaución en la distribución de 
             GNU/Linux que tengas instalada.
         </p>
+    </li>
+</ul>
+
+<h2>Contacto</h2>
+
+<p align="justify">
+    Comunícate mediante los siguientes medios
+</p>
+
+
+<ul>
+    <li>
+        Sitio Web: 
+        <a href="https>//www.leondevs.com">
+            Leon Developments
+        </a>
+    </li>
+    <li>
+        Correo: 
+        <a href="mailto:leondevelopments@gmail.com">
+            Leon Developments
+        </a>
+    </li>
+    <li>
+        LinkedIn: 
+        <a href="https://www.linkedin.com/in/cesarleonc">
+            César León
+        </a>
     </li>
 </ul>
