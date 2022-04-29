@@ -1,0 +1,15 @@
+#+TITLE: Github profile
+#+AUTHOR: Cesar Leon
+#+EMAIL: leoncesaralejandro@gmail.com
+#+DATE: <2022-04-28 jue>
+#+description: Personal Github profile by Cesar Leon
+#+property: header-args :tangle README.org
+
+
+Bienvenido a mi página de Github, en este sitio estará almacenado contenido adicional a [[Leon Developments](https://www.leondevs.com)]
+
+* Resumen
+** Título
+Ingeniero en Negocios Internacionales
+** Institución
+Escuela Superior Politécnica del Litoral
