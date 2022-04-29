@@ -13,7 +13,11 @@
 <h2>Repositorios</h2>
 <ul>
     <li>
-        <h3><a href="https://github.com/CesarLeonC/Archivos">Archivos</a></h3>
+        <h3>
+            <a href="https://github.com/CesarLeonC/Archivos">
+                Archivos
+            </a>
+        </h3>
         <p>
             Este repositorio contiene archivos variados 
             (Word, Excel, etc.) de proyectos pasados. 
@@ -22,7 +26,11 @@
         </p>
     </li>
     <li>
-        <h3><a href="https://github.com/CesarLeonC/arch">Instalación personalizada de Arch Linux</a></h3>
+        <h3>
+            <a href="https://github.com/CesarLeonC/arch">
+                Instalación personalizada de Arch Linux
+            </a>
+        </h3>
         <p>
             El repositorio contiene una instalación semi-automática de 
             Arch. Tiene valores por defecto de "invitado" como usuario 
@@ -31,7 +39,11 @@
         </p>
     </li>
     <li>
-        <h3><a href="https://github.com/CesarLeonC/qtile-personal-config"></a></h3>
+        <h3>
+            <a href="https://github.com/CesarLeonC/qtile-personal-config">
+                Escritorio personalizado Qtile
+            </a>
+        </h3>
         <p>
             Aquí defino la configuración del escritorio para 
             versiones de GNU/Linux que deseen trabajar con 
