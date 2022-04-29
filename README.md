@@ -30,7 +30,7 @@
 
 |   Detalle     |   Descripción     |
 |---------------|-------------------|
-| Elaboración de Estados Financieros | A partir de datos iniciales, obtención de punto de equilibrio, y en adelnate |
+| Elaboración de Estados Financieros | A partir de datos iniciales, obtención de punto de equilibrio, y en adelante |
 
 
 <h3>
