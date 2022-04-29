@@ -5,15 +5,24 @@
 #+description: Personal Github profile by Cesar Leon
 #+property: header-args :tangle README.org
 
+<h1 align='center'>
+  Bienvenido
+</h1>
 
-Bienvenido a mi página de Github, en este sitio estará almacenado contenido distinto a [[https://www.leondevs.com][Leon Developments]]. El contenido incluye un resumen personal, documentación de proyectos ajenos al sitio, y configuración de toda índole.
+
+
+
+Bienvenido a mi sitio en Github, en este sitio estará almacenado contenido distinto a [[https://www.leondevs.com][Leon Developments]]. El contenido incluye un resumen personal, documentación de proyectos ajenos al sitio, y configuración de toda índole.
 
 Siéntete libre de navegar por los repositorios y visualizar su contenido.
 
 *Nota: En algunos repositorios existe documentación en inglés. No habrá traducciones, ni interpretaciones agendadas más adelante para estos repositorios, así que si necesitas información adicional, visita los enlaces provistos en dichos repositorios.
 
-* Resumen
-** Título profesional
+** Proyectos
+
+
+** Resumen
+*** Título profesional
 Ingeniero en Negocios Internacionales
-** Institución
+*** Institución
 Escuela Superior Politécnica del Litoral
